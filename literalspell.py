@@ -1,2 +1,2 @@
 print ("Wingstop has the best wings!") # String Literal
-print
+print (444) #Integer Literal
